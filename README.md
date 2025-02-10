@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cuteecactus
-- 👀 I’m interested in Discord Bot Development
-- 🌱 I’m currently learning NodeJS, Discord.JS
+- 👀 I’m interested in C# Game Development
+- 🌱 I’m currently learning Unity Development
 <!-- - 💞️ I’m looking to collaborate on ...--->
-- 📫 You can reach me on Instagram: @tfabdxll4h 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cats are better than dogs
 
